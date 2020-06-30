@@ -1,0 +1,14 @@
+{
+  "name": "fitco",
+  "version": "1.0.0",
+  "description": "Testing for fitco challenge",
+  "main": "test1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Robert Medina",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
